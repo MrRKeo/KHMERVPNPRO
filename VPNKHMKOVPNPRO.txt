@@ -1,5 +1,5 @@
 {
-"Version":"2.77",
+"Version":"2.78",
 "Url":"https://raw.githubusercontent.com/MrRKeo/KHMERVPNPRO/main/Khmervpsmko.zip",
 "Changelog":"
 អាប់ដេតនៅថ្ងៃទី 11 ខែមិថុនា ឆ្នាំ 2023 
